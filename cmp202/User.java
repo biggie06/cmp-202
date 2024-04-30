@@ -1,3 +1,4 @@
+package cmp202;
 public class User {
     String username ="Bigjoe";
     String password = "bamdmanjoe";
